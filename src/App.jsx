@@ -35,7 +35,7 @@ function App() {
        : 
         <>
         <figure className='img__header'>
-        <img src="/public/assets/rickandmorty.png" alt="rick and morty" />
+        <img src="/assets/rickandmorty.png" alt="rick and morty" />
         </figure>
           <h1 className='app__title'>Rick and Morty</h1>
           <form className='app__form' onSubmit={handleSubmit}>  
